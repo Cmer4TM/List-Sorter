@@ -10,8 +10,5 @@
 	"name": "List Sorter",
 	"version": "v1.0.0",
 	"developer": "cmer4",
-	"description": "",
-	"dependencies": {
-		"geode.node-ids": ">=v1.20.0"
-	}
+	"description": "Adds a button on the list page to sort it by the number of stars"
 }
