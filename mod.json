@@ -8,7 +8,7 @@
 	},
 	"id": "cmer4.list-sorter",
 	"name": "List Sorter",
-	"version": "v1.0.0",
+	"version": "v1.0.1",
 	"developer": "cmer4",
 	"description": "Adds a button on the list page to sort it by the number of stars"
 }
